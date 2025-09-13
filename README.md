@@ -1,5 +1,5 @@
 # BASE TTS FILTER AVAILABLE
-Suitable for all stages of the game.
+Base filter shows all armor types and weapons.
 
 Custom editing/hiding of bases available if downloaded through filterblade link.
 
