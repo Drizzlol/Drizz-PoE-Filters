@@ -30,7 +30,14 @@ Download the sounds folder.
 
 Put the sound files in your filter folder "Documents > My Games > Path of Exile"
 
+**STEP 3: (Optional)**
+
+If using a base filter you may want to hide bases you're not interested in, in the filterblade settings.
+Can refine the ranks of any filter in the settings too.
+
 # Bla
+
+Feel free to request filters for different classes and I'll set up a variation upto one per class/build.
 
 Check back before league start for potential updates
 
