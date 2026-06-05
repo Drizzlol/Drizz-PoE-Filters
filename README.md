@@ -14,14 +14,6 @@ Download one of the filters below.
 
 ```Drizz Comfy Filter:``` https://www.filterblade.xyz/?profile=Drizz%233461&saveState=FTKUVELR1MM45T&isPreset=false&game=Poe2
 
-```Drizz Comfy Filter (No TTS):``` https://www.filterblade.xyz/?profile=Drizz%233461&saveState=UIICL77SFNKNXO&isPreset=false&game=Poe2
-
-```Drizz Comfy Filter (Dark Mode):``` https://www.filterblade.xyz/?profile=Drizz%233461&saveState=CKHIN5FXA7BJ0N&isPreset=false&game=Poe2
-
-**CLASS FILTERS**
-
-```Drizz Ranger Filter (EV/ES):``` https://www.filterblade.xyz/?profile=Drizz%233461&saveState=FF3JDMALI6D8IV&isPreset=false&game=Poe2
-
 **STEP 2:**
 
 ```Skip this step if you're using the Non TTS base```
