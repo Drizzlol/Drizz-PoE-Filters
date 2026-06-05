@@ -16,8 +16,6 @@ Download one of the filters below.
 
 **STEP 2:**
 
-```Skip this step if you're using the Non TTS base```
-
 Download the sounds folder. 
 
 Put the sound files in your filter folder "Documents > My Games > Path of Exile"
