@@ -1,24 +1,24 @@
 # BASE TTS FILTER AVAILABLE
 
-Base filters show all armor types and weapons. 
-
-If added through filterblade you can edit bases to hide/base's ranks.
+Base filter shows all armor types and weapons.
+Full filter reskin.
+TTS for specific item drops.
 
 # How To Use
 
 **STEP 1:**
 
-Download one of the filters below. 
+Download the sounds folder. CODE 
 
-**BASE FILTERS:**
+<img width="542" height="466" alt="chrome_yGftq7zxEZ" src="https://github.com/user-attachments/assets/f782245a-d3e0-43f4-98c1-908a532eb761" />
 
-```Drizz Comfy Filter:``` https://www.filterblade.xyz/?profile=Drizz%233461&saveState=FTKUVELR1MM45T&isPreset=false&game=Poe2
+Put the sound files in your filter folder "Documents > My Games > Path of Exile"
+
+
 
 **STEP 2:**
 
-Download the sounds folder. 
 
-Put the sound files in your filter folder "Documents > My Games > Path of Exile"
 
 **STEP 3:** ***(Optional)***
 
