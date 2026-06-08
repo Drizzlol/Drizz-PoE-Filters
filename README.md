@@ -11,11 +11,11 @@ TTS for specific item drops.
 
 **STEP 1:**
 
-Download the sounds folder.
+- Download the sounds folder.
 
 <img width="1453" height="446" alt="chrome_yGftq7zxEZ" src="https://github.com/user-attachments/assets/456b1bb1-8e30-409d-839e-79c07df46bba" />
 
-Put the sound files (from either the english or japanese folders)
+- Put the sound files (from either the english or japanese folders)
  in your filter folder "Documents > My Games > Path of Exile 2"
 
  <img width="1453" height="592" alt="PathOfExileSteam_9J3y6PYiJ1" src="https://github.com/user-attachments/assets/a585077f-e96e-49e0-8453-fb85b69c9bdb" />
