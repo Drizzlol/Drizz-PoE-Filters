@@ -17,6 +17,8 @@ Download the sounds folder.
 Put the sound files (from either the english or japanese folders)
  in your filter folder "Documents > My Games > Path of Exile 2"
 
+ <img width="1453" height="592" alt="PathOfExileSteam_9J3y6PYiJ1" src="https://github.com/user-attachments/assets/a585077f-e96e-49e0-8453-fb85b69c9bdb" />
+
 <img width="887" height="594" alt="PathOfExileSteam_9J3y6PYiJ1" src="https://github.com/user-attachments/assets/8a46c3c2-cb1d-4bbb-a5eb-1514f90006c2" /> <img width="492" height="694" alt="explorer_uyrdOPtiQQ" src="https://github.com/user-attachments/assets/ff2efe73-2056-49a0-9520-7c8a0612bfac" />
 
 
