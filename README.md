@@ -22,12 +22,12 @@ Put the sound files (from either the english or japanese folders)
 
 **STEP 2:**
 
-Open your filter (or create a new one).
-Click Modules
-Select Public tab
-Search "drizz" in author
-Add "Drizz Comfy Filter" module
-Apply
+- Open your filter (or create a new one).
+- Click Modules
+- Select Public tab
+- Search "drizz" in author
+- Add "Drizz Comfy Filter" module
+- Apply
 
 <img width="1453" height="599" alt="chrome_hO2rHAW6Lw" src="https://github.com/user-attachments/assets/2546df03-e6c8-4034-8236-e7dd901e211d" />
 
