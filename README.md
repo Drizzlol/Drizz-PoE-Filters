@@ -8,7 +8,7 @@ TTS for specific item drops.
 
 **STEP 1:**
 
-Download the sounds folder. CODE 
+Download the sounds folder.
 
 <img width="542" height="466" alt="chrome_yGftq7zxEZ" src="https://github.com/user-attachments/assets/f782245a-d3e0-43f4-98c1-908a532eb761" />
 
