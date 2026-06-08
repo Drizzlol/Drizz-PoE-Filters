@@ -21,6 +21,7 @@ Put the sound files (from either the english or japanese folders)
  <img width="1453" height="592" alt="PathOfExileSteam_9J3y6PYiJ1" src="https://github.com/user-attachments/assets/a585077f-e96e-49e0-8453-fb85b69c9bdb" />
 
 
+
 **STEP 2:**
 
 
