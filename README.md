@@ -1,7 +1,9 @@
 # BASE TTS FILTER AVAILABLE
 
 Base filter shows all armor types and weapons.
+
 Full filter reskin.
+
 TTS for specific item drops.
 
 # How To Use
