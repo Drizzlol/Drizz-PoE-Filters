@@ -1,7 +1,7 @@
 
 # DRIZZ COMFY TTS FILTER
 
-Custom filter that auto updates* but doesn't override changes you've made through Filterblade.
+Custom filter that auto updates* but doesn't override changes you've made through [Filterblade](https://www.filterblade.xyz/?game=Poe2).
 
 # How To Use
 
@@ -18,7 +18,7 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 
 **STEP 2:**
 
-- Open your filter (or create a new one).
+- Open your filter (or create a new one) in [Filterblade](https://www.filterblade.xyz/?game=Poe2).
 - Click Modules
 - Select Public tab
 - Search "drizz" in author
