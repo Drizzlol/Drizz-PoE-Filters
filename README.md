@@ -1,11 +1,7 @@
 
 # TTS FILTER MODULE AVAILABLE
 
-Base filter shows all armor types and weapons.
-
-Filter reskin.
-
-TTS for specific item drops.
+Custom filter that auto updates but doesn't override changes you've made through Filterblade.
 
 # How To Use
 
