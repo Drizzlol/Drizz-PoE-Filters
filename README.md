@@ -48,6 +48,8 @@ You can hide bases you're not interested in seeing, through filterblade settings
 
 *Filter will auto update from the module whenever you load your filter in filterblade. Any changes made will not alter what you have personally changed for your filter.
 
+**You can remove the module to revert your filter back to normal at any time.
+
 # <img width="128" height="128" alt="4x" src="https://github.com/user-attachments/assets/f6570a62-348a-41d2-9c89-2f05c39d0e1d" />
 
 
