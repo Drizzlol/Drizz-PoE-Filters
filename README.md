@@ -34,8 +34,6 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 - Click "Save & Upload once"
 
 *Note: The hidden items are showing, they have custom rules for all stages of game located in the "Campaign Currency" section.*
-
-‎. 
 <img width="1446" height="1069" alt="chrome_6x3zm2S7Y5" src="https://github.com/user-attachments/assets/5abe95e0-b635-4733-a02f-6ba883a3d777" />
 
 
@@ -43,14 +41,13 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 
 All base types (armour, weapons etc..) are showing by default.
 
-You may want to hide bases you're not interested in seeing, through filterblade settings.
-
-.
+You can hide bases you're not interested in seeing, through filterblade settings.
 <img width="1453" height="361" alt="chrome_DHVy5Thx72" src="https://github.com/user-attachments/assets/689297e7-9363-4923-a735-4707e87d844f" />
 
 *Filter will auto update from the module whenever you load your filter in filterblade. Any changes made will not alter what you have personally changed for your filter.
 
-# Bla
+# <img width="128" height="128" alt="4x" src="https://github.com/user-attachments/assets/f6570a62-348a-41d2-9c89-2f05c39d0e1d" />
+
 
 Check back before league start for potential updates
 
