@@ -33,23 +33,27 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 - Select Export to PoE tab
 - Click "Save & Upload once"
 
-Note: The hidden items are showing they have custom rules for all stages of game located in the "Campaign Currency" section.
-‎ 
+*Note: The hidden items are showing, they have custom rules for all stages of game located in the "Campaign Currency" section.*
+
+‎. 
 <img width="1446" height="1069" alt="chrome_6x3zm2S7Y5" src="https://github.com/user-attachments/assets/5abe95e0-b635-4733-a02f-6ba883a3d777" />
 
 
 ***(Recommended)***
+
 All base types (armour, weapons etc..) are showing by default.
+
 You may want to hide bases you're not interested in seeing, through filterblade settings.
-<img width="1453" height="365" alt="chrome_DHVy5Thx72" src="https://github.com/user-attachments/assets/2c0bafc0-e939-4eb1-854a-ab9bc5720742" />
 
+.
+<img width="1453" height="361" alt="chrome_DHVy5Thx72" src="https://github.com/user-attachments/assets/689297e7-9363-4923-a735-4707e87d844f" />
 
-Can also refine the ranks of any of my filters in the filterblade settings.
+*Filter will auto update from the module whenever you load your filter in filterblade. Any changes made will not alter what you have personally changed for your filter.
 
 # Bla
 
-Feel free to request filters for different classes and I'll set up a variation upto one per class/build.
-
 Check back before league start for potential updates
 
-If you have any feedback feel free to post in the filter feedback channel in discord here https://discord.gg/Cafnuub
+If you have any feedback or questions feel free to message me on discord https://discord.gg/Cafnuub or drizzqt
+
+Or find me on twitch https://www.twitch.tv/drizz
