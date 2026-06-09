@@ -28,9 +28,19 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 <img width="1453" height="599" alt="chrome_hO2rHAW6Lw" src="https://github.com/user-attachments/assets/2546df03-e6c8-4034-8236-e7dd901e211d" />
 
 
-**STEP 3:** ***(Optional)***
+**STEP 3:** 
 
-If using a base filter you may want to hide bases you're not interested in, in the filterblade settings.
+- Select Export to PoE tab
+- Click "Save & Upload once"
+NB: The hidden items are showing they have custom rules for all stages of game located in the "Campaign Currency" section.
+<img width="1446" height="1069" alt="chrome_6x3zm2S7Y5" src="https://github.com/user-attachments/assets/5abe95e0-b635-4733-a02f-6ba883a3d777" />
+
+
+***(Recommended)***
+All base types (armour, weapons etc..) are showing by default.
+You may want to hide bases you're not interested in seeing, through filterblade settings.
+<img width="1453" height="365" alt="chrome_DHVy5Thx72" src="https://github.com/user-attachments/assets/2c0bafc0-e939-4eb1-854a-ab9bc5720742" />
+
 
 Can also refine the ranks of any of my filters in the filterblade settings.
 
