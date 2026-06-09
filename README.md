@@ -33,7 +33,8 @@ Custom filter that auto updates* but doesn't override changes you've made throug
 - Select Export to PoE tab
 - Click "Save & Upload once"
 
-```Note: The hidden items are showing they have custom rules for all stages of game located in the "Campaign Currency" section.```
+Note: The hidden items are showing they have custom rules for all stages of game located in the "Campaign Currency" section.
+‎ 
 <img width="1446" height="1069" alt="chrome_6x3zm2S7Y5" src="https://github.com/user-attachments/assets/5abe95e0-b635-4733-a02f-6ba883a3d777" />
 
 
