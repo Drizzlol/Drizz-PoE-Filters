@@ -3,6 +3,8 @@
 
 Custom filter that auto updates* but doesn't override changes you've made through [Filterblade](https://www.filterblade.xyz/?game=Poe2).
 
+Filter reskin & Text to Speech for notable drops.
+
 # How To Use
 
 **STEP 1:**
