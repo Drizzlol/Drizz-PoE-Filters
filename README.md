@@ -1,5 +1,5 @@
 
-# BASE TTS FILTER AVAILABLE
+# TTS FILTER MODULE AVAILABLE
 
 Base filter shows all armor types and weapons.
 
