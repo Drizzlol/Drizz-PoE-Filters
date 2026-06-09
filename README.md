@@ -1,5 +1,5 @@
 
-# DRIZZ COMFY TTS FILTER MODULE
+# DRIZZ COMFY TTS FILTER
 
 Custom filter that auto updates* but doesn't override changes you've made through Filterblade.
 
