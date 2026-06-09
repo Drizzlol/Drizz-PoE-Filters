@@ -1,7 +1,7 @@
 
 # TTS FILTER MODULE AVAILABLE
 
-Custom filter that auto updates but doesn't override changes you've made through Filterblade.
+Custom filter that auto updates* but doesn't override changes you've made through Filterblade.
 
 # How To Use
 
